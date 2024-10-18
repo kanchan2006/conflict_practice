@@ -1,5 +1,5 @@
 # favorite food
 
 apple
-meat
-milk
+onion
+olive
